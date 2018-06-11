@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Soo Hyung Park's homepage
 description: Feel free to bookmark my homepage to keep track on my project updates.
+header:
+  image: https://i.imgur.com/QHfxvwa.jpg
+  image_description: "Mt. Rainier"
