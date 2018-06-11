@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+
+
+## Soo Hyung Park's Homepage
+
+![rainier_cover](https://i.imgur.com/QHfxvwa.jpg)
+
+**Soo Hyung Park**
+
+- Bachelor of Science in Computer Science @ Georgia Institute of Technology (Graduated in 2018)
+- Master of Science in Computer Science @ Georgia Institute of Technology (Present)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/shstan/shstan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
