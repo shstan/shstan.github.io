@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Soo Hyung Park
+logo: https://38.media.tumblr.com/0f77bf82b9c18d9def15be496afa66e7/tumblr_nqfd57nbVO1uum06fo1_400.gif
+show_downloads: true
 description: Currently pursuing Master's Degree in Computer Science. Mainly interested in ML/DL.
 author_profile: true
 header:
