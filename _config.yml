@@ -5,9 +5,3 @@ author_profile: true
 header:
   image: https://i.imgur.com/QHfxvwa.jpg
   image_description: "Mt. Rainier"
-sidebar:
-  title: "Test sidebar"
-  image: "https://i.ytimg.com/vi/z30Y572EmCk/maxresdefault.jpg"
-  image_alt: "Nichijou_demo"
-  text: "[wow](shstan.me)."
-  nav: "songs"
